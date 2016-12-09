@@ -1,0 +1,14 @@
+{
+    "name": "dotrungha/tesst",
+    "authors": [
+        {
+            "name": "dotrungha",
+            "email": "dotrungha1994@gmail.com"
+        }
+    ],"autoload":{
+        "psr-4":{
+            "folder1\\folder2\\folder3\\" : "folder1/folder2/folder3"
+        }
+    },
+    "require": {}
+}
